@@ -1,8 +1,7 @@
 // About This Project //
 
-
   Started: 12/3/22
-  Latest Pre-Release: v0.3
+  Latest as of 12/8: v0.17.1.04
   Game: Minecraft
-  Coded in: Microsoft Makecode & MCreator
-  Goal of the Mod: To be a mod.
+  Coded in: Tynker for Bedrock & MCreator for Java
+  Goal of the Mod: To be an epic mod with lots of features.
