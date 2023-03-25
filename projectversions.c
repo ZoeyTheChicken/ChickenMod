@@ -1,5 +1,4 @@
-v0.1
-  v0.2.1
-  v0.3
-  
-  Last updated 12/3/2022 @ 10:50 PM
+Version 11.0.0.41 for Java (Latest) (3/25/23)
+  Version 0.19.2.41 for Bedrock (Latest) (12/9/22)
+    
+   Last updated 3/25/2023 @ 9:15 AM
